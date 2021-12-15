@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.exe
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.deps.json
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.runtimeconfig.json
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.dll
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.pdb
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.AssemblyInfo.cs
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.dll
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.pdb
+C:\Users\sumit\source\repos\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.genruntimeconfig.cache
